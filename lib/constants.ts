@@ -410,7 +410,7 @@ export const CTAEnglish = {
 export const footerVietNam = {
   title: "Chúng tôi",
   description: "Hành trình Bắt đầu từ Đây. Khám phá Vẻ đẹp Ẩn của Việt Nam",
-  copyright: "© Chúng tôi 2024. All rights reserved.",
+  copyright: "© Hari - Hồ thanh Hải",
 
   navigation: {
     title: "Điều hướng",
@@ -489,7 +489,7 @@ export const footerVietNam = {
 export const footerEnglish = {
   title: "Chúng tôi",
   description: "Journey Starts Here. Discovering the Hidden Beauty of Vietnam",
-  copyright: "© Chúng tôi 2024. All rights reserved.",
+  copyright: "© Hari - Hồ thanh Hải",
 
   navigation: {
     title: "Navigation",
