@@ -6,7 +6,7 @@ export const navLinksVietNam = [
   },
   {
     id: 2,
-    name: "Giới thiệu", 
+    name: "Giới thiệu",
     href: "#about",
   },
   {
@@ -68,42 +68,51 @@ export const navLinksEnglish = [
 ];
 
 export const heroVietNam = {
-  title: "Khám phá Thiên đường Biển Quy Nhơn. Nơi Sóng Biển và Thiên nhiên Hòa quyện",
-  description: "Tại đây, bạn có thể khám phá những bãi biển hoang sơ, làng chài truyền thống và ẩm thực biển phong phú, biến Quy Nhơn thành điểm đến mơ ước cho những người yêu biển.",
+  title:
+    "Khám phá Thiên đường Biển Quy Nhơn. Nơi Sóng Biển và Thiên nhiên Hòa quyện",
+  description:
+    "Tại đây, bạn có thể khám phá những bãi biển hoang sơ, làng chài truyền thống và ẩm thực biển phong phú, biến Quy Nhơn thành điểm đến mơ ước cho những người yêu biển.",
 };
 
 export const heroEnglish = {
   title: "Discover Paradise in Quy Nhon Beach. Where Waves Meet Natural Beauty",
-  description: "Here, you can explore pristine beaches, traditional fishing villages and rich seafood cuisine, making Quy Nhon a dream destination for beach lovers.",
+  description:
+    "Here, you can explore pristine beaches, traditional fishing villages and rich seafood cuisine, making Quy Nhon a dream destination for beach lovers.",
 };
 
 export const aboutImageCardVietNam = {
   title: "Thiên đường Biển Miền Trung Việt Nam",
-  description: "Khám phá những bãi biển hoang sơ, làng chài truyền thống và ẩm thực biển phong phú, biến Quy Nhơn thành điểm đến mơ ước cho những người yêu biển.",
+  description:
+    "Khám phá những bãi biển hoang sơ, làng chài truyền thống và ẩm thực biển phong phú, biến Quy Nhơn thành điểm đến mơ ước cho những người yêu biển.",
   image: [
     {
       title: "Bờ biển",
-      description: "Bờ biển Quy Nhơn là thiên đường nhiệt đới với cát vàng mịn, nước trong xanh và những rặng dừa xanh mát.",
+      description:
+        "Bờ biển Quy Nhơn là thiên đường nhiệt đới với cát vàng mịn, nước trong xanh và những rặng dừa xanh mát.",
       image: "/image-1.jpg",
     },
     {
       title: "Vẻ đẹp Ẩn ở Quy Nhơn",
-      description: "Ẩn mình giữa những vách núi hùng vĩ, vịnh biển xanh ngọc này ở Quy Nhơn toát lên sự thanh bình và vẻ đẹp thiên nhiên vô song.",
+      description:
+        "Ẩn mình giữa những vách núi hùng vĩ, vịnh biển xanh ngọc này ở Quy Nhơn toát lên sự thanh bình và vẻ đẹp thiên nhiên vô song.",
       image: "/image-2.jpg",
     },
     {
       title: "Eo Gió",
-      description: "Eo Gió - nơi giao thoa giữa núi và biển, tạo nên khung cảnh ngoạn mục với những vách đá cao và sóng biển dạt dào.",
+      description:
+        "Eo Gió - nơi giao thoa giữa núi và biển, tạo nên khung cảnh ngoạn mục với những vách đá cao và sóng biển dạt dào.",
       image: "/image-3.jpg",
     },
     {
       title: "Đảo Kỳ Co",
-      description: "Đảo Kỳ Co với bãi cát trắng mịn, nước biển trong xanh tạo nên khung cảnh thiên nhiên tuyệt đẹp.",
+      description:
+        "Đảo Kỳ Co với bãi cát trắng mịn, nước biển trong xanh tạo nên khung cảnh thiên nhiên tuyệt đẹp.",
       image: "/image-4.jpg",
     },
     {
       title: "Cảng cá Quy Nhơn",
-      description: "Cảng cá nhộn nhịp với những thuyền đánh cá đầy màu sắc, nơi bạn có thể trải nghiệm không khí làng chài truyền thống.",
+      description:
+        "Cảng cá nhộn nhịp với những thuyền đánh cá đầy màu sắc, nơi bạn có thể trải nghiệm không khí làng chài truyền thống.",
       image: "/image-5.jpg",
     },
   ],
@@ -111,31 +120,37 @@ export const aboutImageCardVietNam = {
 
 export const aboutImageCardEnglish = {
   title: "Paradise Beach in Central Vietnam",
-  description: "Discover pristine beaches, traditional fishing villages and rich seafood cuisine, making Quy Nhon a dream destination for beach lovers.",
+  description:
+    "Discover pristine beaches, traditional fishing villages and rich seafood cuisine, making Quy Nhon a dream destination for beach lovers.",
   image: [
     {
       title: "Coastal Shore",
-      description: "Quy Nhon's coastline is a tropical paradise of fine golden sand, clear water and green coconut trees.",
+      description:
+        "Quy Nhon's coastline is a tropical paradise of fine golden sand, clear water and green coconut trees.",
       image: "/image-1.jpg",
     },
     {
       title: "Hidden Beauty in Quy Nhon",
-      description: "Hidden amongst majestic mountain cliffs, this turquoise bay in Quy Nhon exudes tranquility and unparalleled natural charm.",
+      description:
+        "Hidden amongst majestic mountain cliffs, this turquoise bay in Quy Nhon exudes tranquility and unparalleled natural charm.",
       image: "/image-2.jpg",
     },
     {
       title: "Eo Gio",
-      description: "Eo Gio - where mountains meet the sea, creating spectacular scenery with high cliffs and rolling waves.",
+      description:
+        "Eo Gio - where mountains meet the sea, creating spectacular scenery with high cliffs and rolling waves.",
       image: "/image-3.jpg",
     },
     {
       title: "Ky Co Island",
-      description: "Ky Co Island with fine white sand and crystal clear water creates a stunning natural landscape.",
+      description:
+        "Ky Co Island with fine white sand and crystal clear water creates a stunning natural landscape.",
       image: "/image-4.jpg",
     },
     {
       title: "Quy Nhon Fishing Port",
-      description: "The bustling fishing port with colorful fishing boats where you can experience traditional fishing village atmosphere.",
+      description:
+        "The bustling fishing port with colorful fishing boats where you can experience traditional fishing village atmosphere.",
       image: "/image-5.jpg",
     },
   ],
@@ -143,12 +158,14 @@ export const aboutImageCardEnglish = {
 
 export const aboutUsVietNam = {
   title: "Tìm hiểu về Chúng tôi và Quy Nhơn",
-  description: "Chúng tôi cung cấp thông tin đầy đủ và đáng tin cậy về vẻ đẹp của Quy Nhơn, điểm đến du lịch giàu thiên nhiên và văn hóa biển. Chúng tôi giúp du khách khám phá nét độc đáo của bãi biển, làng chài và ẩm thực địa phương.",
+  description:
+    "Chúng tôi cung cấp thông tin đầy đủ và đáng tin cậy về vẻ đẹp của Quy Nhơn, điểm đến du lịch giàu thiên nhiên và văn hóa biển. Chúng tôi giúp du khách khám phá nét độc đáo của bãi biển, làng chài và ẩm thực địa phương.",
 };
 
 export const aboutUsEnglish = {
   title: "Getting to Know Us and Quy Nhon",
-  description: "Chúng tôi is here to provide complete and reliable information about the beauty of Quy Nhon, a tourist destination rich in nature and sea culture. We help travelers discover the uniqueness of beaches, fishing villages and local cuisine.",
+  description:
+    "Chúng tôi is here to provide complete and reliable information about the beauty of Quy Nhon, a tourist destination rich in nature and sea culture. We help travelers discover the uniqueness of beaches, fishing villages and local cuisine.",
 };
 
 export const benefitVietNam = {
@@ -157,22 +174,26 @@ export const benefitVietNam = {
     {
       id: 1,
       title: "Thông tin Hữu ích về Quy Nhơn",
-      description: "Chúng tôi cung cấp thông tin chi tiết về mỗi bãi biển, điểm tham quan và ẩm thực ở Quy Nhơn. Từ vẻ đẹp thiên nhiên đến các hoạt động có thể thực hiện.",
+      description:
+        "Chúng tôi cung cấp thông tin chi tiết về mỗi bãi biển, điểm tham quan và ẩm thực ở Quy Nhơn. Từ vẻ đẹp thiên nhiên đến các hoạt động có thể thực hiện.",
     },
     {
       id: 2,
       title: "Hướng dẫn Điểm đến Đầy đủ",
-      description: "Nhận hướng dẫn và các bước chi tiết về cách đến Quy Nhơn, thời điểm tốt nhất để thăm quan, cùng các mẹo và thủ thuật để chuyến đi của bạn suôn sẻ và an toàn.",
+      description:
+        "Nhận hướng dẫn và các bước chi tiết về cách đến Quy Nhơn, thời điểm tốt nhất để thăm quan, cùng các mẹo và thủ thuật để chuyến đi của bạn suôn sẻ và an toàn.",
     },
     {
       id: 3,
       title: "Ảnh và Video Tuyệt đẹp",
-      description: "Thư viện hình ảnh làm mãn nhãn bạn với vẻ đẹp tự nhiên của Quy Nhơn, giúp bạn nhìn và cảm nhận được sự quyến rũ của nó trước khi khởi hành.",
+      description:
+        "Thư viện hình ảnh làm mãn nhãn bạn với vẻ đẹp tự nhiên của Quy Nhơn, giúp bạn nhìn và cảm nhận được sự quyến rũ của nó trước khi khởi hành.",
     },
     {
       id: 4,
       title: "Cảm hứng và Câu chuyện Du khách",
-      description: "Trải nghiệm thực tế từ những du khách khác đã đến thăm Quy Nhơn. Những câu chuyện truyền cảm hứng này là những mẹo bổ sung để làm cho chuyến đi của bạn thêm đáng nhớ.",
+      description:
+        "Trải nghiệm thực tế từ những du khách khác đã đến thăm Quy Nhơn. Những câu chuyện truyền cảm hứng này là những mẹo bổ sung để làm cho chuyến đi của bạn thêm đáng nhớ.",
     },
   ],
 };
@@ -183,34 +204,40 @@ export const benefitEnglish = {
     {
       id: 1,
       title: "Useful Information About Quy Nhon",
-      description: "We provide detailed information about every beach, attraction and cuisine in Quy Nhon. From natural beauty to activities that can be done.",
+      description:
+        "We provide detailed information about every beach, attraction and cuisine in Quy Nhon. From natural beauty to activities that can be done.",
     },
     {
       id: 2,
       title: "Complete Destination Guide",
-      description: "Get step-by-step guidance on how to get to Quy Nhon, best time to visit, and tips and tricks to make your trip smooth and safe.",
+      description:
+        "Get step-by-step guidance on how to get to Quy Nhon, best time to visit, and tips and tricks to make your trip smooth and safe.",
     },
     {
       id: 3,
       title: "Amazing Photos and Videos",
-      description: "A visual gallery that feasts your eyes on the natural beauty of Quy Nhon, helping you see and feel its charm before you set off.",
+      description:
+        "A visual gallery that feasts your eyes on the natural beauty of Quy Nhon, helping you see and feel its charm before you set off.",
     },
     {
       id: 4,
       title: "Inspirational and Travel Stories",
-      description: "Real experiences from other travelers who have visited Quy Nhon. These inspiring stories are additional tips to make your trip more memorable.",
+      description:
+        "Real experiences from other travelers who have visited Quy Nhon. These inspiring stories are additional tips to make your trip more memorable.",
     },
   ],
 };
 
 export const destinationVietNam = {
   title: "Điểm đến Phổ biến",
-  description: "Khám phá vẻ đẹp thiên nhiên của biển Quy Nhơn và văn hóa biển phong phú đáng kinh ngạc",
+  description:
+    "Khám phá vẻ đẹp thiên nhiên của biển Quy Nhơn và văn hóa biển phong phú đáng kinh ngạc",
 };
 
 export const destinationEnglish = {
   title: "Popular Destinations",
-  description: "Discover the natural beauty of Quy Nhon beach and its amazingly rich sea culture",
+  description:
+    "Discover the natural beauty of Quy Nhon beach and its amazingly rich sea culture",
 };
 
 export const trustedVietNam = {
@@ -223,7 +250,8 @@ export const trustedEnglish = {
 
 export const ratingVietNam = {
   title: "Thu hút Nhiều Du khách Từ Khắp nơi Trên Thế giới",
-  description: "Quy Nhơn mang đến trải nghiệm tuyệt vời cho du khách với bãi biển đẹp, ẩm thực phong phú và văn hóa biển độc đáo",
+  description:
+    "Quy Nhơn mang đến trải nghiệm tuyệt vời cho du khách với bãi biển đẹp, ẩm thực phong phú và văn hóa biển độc đáo",
   attractions: [
     {
       id: 1,
@@ -231,7 +259,8 @@ export const ratingVietNam = {
       rating: 4.9,
       image: "/eo-gio.jpg",
       details: {
-        title: "Khám phá Kỳ quan Thiên nhiên Eo Gió: Cảnh quan Ngoạn mục ở Quy Nhơn",
+        title:
+          "Khám phá Kỳ quan Thiên nhiên Eo Gió: Cảnh quan Ngoạn mục ở Quy Nhơn",
         description: [
           "Eo Gió ở Quy Nhơn, Bình Định là một trong những điểm đến nổi tiếng với cảnh quan ngoạn mục và vẻ đẹp thiên nhiên. Điểm đến biểu tượng này được biết đến với những vách đá cao vút nhô ra biển, tạo nên một khung cảnh hùng vĩ. Du khách thường leo lên điểm ngắm cảnh để chiêm ngưỡng toàn cảnh biển xanh và những dãy núi trùng điệp.",
 
@@ -279,7 +308,8 @@ export const ratingVietNam = {
       rating: 4.7,
       image: "/ghenh-rang.jpg",
       details: {
-        title: "Khám phá Vẻ đẹp Thơ mộng của Ghềnh Ráng: Di sản Văn hóa và Thiên nhiên",
+        title:
+          "Khám phá Vẻ đẹp Thơ mộng của Ghềnh Ráng: Di sản Văn hóa và Thiên nhiên",
         description: [
           "Ghềnh Ráng, nằm ở phía nam thành phố Quy Nhơn, là điểm đến độc đáo kết hợp giữa di sản văn hóa và vẻ đẹp thiên nhiên. Nơi đây nổi tiếng với bãi đá nhiều màu sắc, những rặng dừa xanh và bãi biển Hoàng Hậu tuyệt đẹp.",
 
@@ -294,24 +324,28 @@ export const ratingVietNam = {
     {
       name: "Nguyễn Văn An",
       from: "Hà Nội, Việt Nam",
-      comment: "Vẻ đẹp của biển Quy Nhơn thật khó diễn tả bằng lời. Mặc dù chỉ là chuyến đi ngắn ngày, nhưng trải nghiệm thật tuyệt vời. Từ Eo Gió ngoạn mục, bãi biển Kỳ Co trong xanh, đến ẩm thực địa phương đặc sắc.",
+      comment:
+        "Vẻ đẹp của biển Quy Nhơn thật khó diễn tả bằng lời. Mặc dù chỉ là chuyến đi ngắn ngày, nhưng trải nghiệm thật tuyệt vời. Từ Eo Gió ngoạn mục, bãi biển Kỳ Co trong xanh, đến ẩm thực địa phương đặc sắc.",
     },
     {
       name: "Trần Thị Mai",
       from: "TP.HCM, Việt Nam",
-      comment: "Quy Nhơn quả thực là một viên ngọc quý của miền Trung. Biển xanh, cát trắng, không khí trong lành, ẩm thực tuyệt vời. Đặc biệt là người dân địa phương rất thân thiện và mến khách.",
+      comment:
+        "Quy Nhơn quả thực là một viên ngọc quý của miền Trung. Biển xanh, cát trắng, không khí trong lành, ẩm thực tuyệt vời. Đặc biệt là người dân địa phương rất thân thiện và mến khách.",
     },
     {
       name: "Lê Minh Đức",
       from: "Đà Nẵng, Việt Nam",
-      comment: "Nếu bạn là người yêu thiên nhiên và biển cả, Quy Nhơn là điểm đến không thể bỏ qua. Từ các bãi biển hoang sơ đến ẩm thực đặc sắc, mọi thứ đều tuyệt vời.",
+      comment:
+        "Nếu bạn là người yêu thiên nhiên và biển cả, Quy Nhơn là điểm đến không thể bỏ qua. Từ các bãi biển hoang sơ đến ẩm thực đặc sắc, mọi thứ đều tuyệt vời.",
     },
   ],
 };
 
 export const ratingEnglish = {
   title: "Attracts Many Travelers From Around the World",
-  description: "Quy Nhon offers an extraordinary experience for travelers with its beautiful beaches, rich cuisine and unique sea culture",
+  description:
+    "Quy Nhon offers an extraordinary experience for travelers with its beautiful beaches, rich cuisine and unique sea culture",
   attractions: [
     {
       id: 1,
@@ -319,7 +353,8 @@ export const ratingEnglish = {
       rating: 4.9,
       image: "/eo-gio.jpg",
       details: {
-        title: "Exploring the Natural Wonder of Eo Gio: A Stunning Panorama in Quy Nhon",
+        title:
+          "Exploring the Natural Wonder of Eo Gio: A Stunning Panorama in Quy Nhon",
         description: [
           "Eo Gio in Quy Nhon, Binh Dinh is one of the famous destinations with spectacular landscapes and natural beauty. This iconic destination is known for its high cliffs jutting out to sea, creating a majestic scene. Visitors often climb to viewpoints to admire panoramic views of the blue sea and mountain ranges.",
 
@@ -367,7 +402,8 @@ export const ratingEnglish = {
       rating: 4.7,
       image: "/ghenh-rang.jpg",
       details: {
-        title: "Exploring the Poetic Beauty of Ghenh Rang: Cultural and Natural Heritage",
+        title:
+          "Exploring the Poetic Beauty of Ghenh Rang: Cultural and Natural Heritage",
         description: [
           "Ghenh Rang, located in southern Quy Nhon city, is a unique destination combining cultural heritage and natural beauty. The place is famous for its colorful rocky beach, green coconut trees and beautiful Queen's Beach.",
 
@@ -382,35 +418,40 @@ export const ratingEnglish = {
     {
       name: "Nguyen Van An",
       from: "Hanoi, Vietnam",
-      comment: "The beauty of Quy Nhon sea is hard to describe in words. Although it was just a short trip, the experience was amazing. From spectacular Eo Gio, clear Ky Co beach, to distinctive local cuisine.",
+      comment:
+        "The beauty of Quy Nhon sea is hard to describe in words. Although it was just a short trip, the experience was amazing. From spectacular Eo Gio, clear Ky Co beach, to distinctive local cuisine.",
     },
     {
       name: "Tran Thi Mai",
       from: "Ho Chi Minh City, Vietnam",
-      comment: "Quy Nhon is truly a precious gem of Central Vietnam. Blue sea, white sand, fresh air, wonderful food. Especially the local people are very friendly and hospitable.",
+      comment:
+        "Quy Nhon is truly a precious gem of Central Vietnam. Blue sea, white sand, fresh air, wonderful food. Especially the local people are very friendly and hospitable.",
     },
     {
       name: "Le Minh Duc",
       from: "Da Nang, Vietnam",
-      comment: "If you are a nature and sea lover, Quy Nhon is a must-visit destination. From pristine beaches to distinctive cuisine, everything is wonderful.",
+      comment:
+        "If you are a nature and sea lover, Quy Nhon is a must-visit destination. From pristine beaches to distinctive cuisine, everything is wonderful.",
     },
   ],
 };
 
 export const CTAVietNam = {
   title: "Sẵn sàng Khám phá?",
-  description: "Khám phá vẻ đẹp của Quy Nhơn và tìm kiếm những trải nghiệm khó quên. Bắt đầu hành trình của bạn ngay!",
+  description:
+    "Khám phá vẻ đẹp của Quy Nhơn và tìm kiếm những trải nghiệm khó quên. Bắt đầu hành trình của bạn ngay!",
 };
 
 export const CTAEnglish = {
   title: "Ready to Explore?",
-  description: "Discover the beauty of Quy Nhon and find unforgettable experiences. Start your journey now!",
+  description:
+    "Discover the beauty of Quy Nhon and find unforgettable experiences. Start your journey now!",
 };
 
 export const footerVietNam = {
   title: "Chúng tôi",
   description: "Hành trình Bắt đầu từ Đây. Khám phá Vẻ đẹp Ẩn của Việt Nam",
-  copyright: "© Chúng tôi 2024. All rights reserved.",
+  copyright: "© Hari - Hồ thanh Hải",
 
   navigation: {
     title: "Điều hướng",
@@ -489,7 +530,7 @@ export const footerVietNam = {
 export const footerEnglish = {
   title: "Chúng tôi",
   description: "Journey Starts Here. Discovering the Hidden Beauty of Vietnam",
-  copyright: "© Chúng tôi 2024. All rights reserved.",
+  copyright: "© Hari - Hồ thanh Hải",
 
   navigation: {
     title: "Navigation",
@@ -568,7 +609,7 @@ export const footerEnglish = {
 export const footerNotHomePageVietNam = {
   title: "Chúng tôi",
   description: "Hành trình Bắt đầu từ Đây. Khám phá Vẻ đẹp Ẩn của Việt Nam",
-  copyright: "© Chúng tôi 2024. All rights reserved.",
+  copyright: "© Hari - Hồ thanh Hải",
 
   navigation: {
     title: "Điều hướng",
@@ -647,7 +688,7 @@ export const footerNotHomePageVietNam = {
 export const footerNotHomePageEnglish = {
   title: "Chúng tôi",
   description: "Starting from Here. Discovering the Hidden Beauty of VietNam",
-  copyright: "© Chúng tôi 2024. All rights reserved.",
+  copyright: "© Hari - Hồ thanh Hải",
 
   navigation: {
     title: "Navigation",

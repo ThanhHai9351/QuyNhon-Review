@@ -61,7 +61,7 @@ export default function Navbar({ className }: { className?: string }) {
             <Button
               variant="ghost"
               className={cn(
-                "text-[20px] font-bold text-white hover:bg-transparent",
+                "text-[20px] font-bold text-white hover:bg-transparent relative",
                 {
                   "text-primary hover:text-primary": isScrolled,
                   "text-white hover:text-white": !isScrolled,
